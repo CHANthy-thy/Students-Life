@@ -425,6 +425,25 @@ footer {
   margin-right: 8px;
   color: #ffcc00;
 }
+footer p {
+    margin: 8px 0;
+    font-size: 16px;
+    color: #ecf0f1;
+    display: flex;
+    align-items: center;
+}
+
+footer p i {
+    margin-right: 10px;
+    color: #1abc9c; /* Icon color */
+}
+
+footer > p {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #bdc3c7; /* Footer credit */
+}
 
 
 /* ====== Tablet Styles (max-width: 768px) ====== */
