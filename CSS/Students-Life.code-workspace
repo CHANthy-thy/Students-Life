@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PNC-Student-Life/IMG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Students-Life"
+	}
+}
