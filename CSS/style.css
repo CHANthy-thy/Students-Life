@@ -14,8 +14,9 @@ body {
 }
 
 h1, h2, h3 {
-  color: #002b7f;
+  /* color: #002b7f; */
   text-align: center;
+  border-color: #0543c2;
   margin-bottom: 1rem;
 }
 
@@ -47,7 +48,9 @@ h1, h2, h3 {
 
 /* Navbar styles */
 .navbar {
-  background-color: white;
+  border-color: blue;
+  /* background-color: white; */
+  color: #0543c2;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -75,7 +78,10 @@ h1, h2, h3 {
   gap: 30px;
 }
 .nav-links li a {
-  color: black;
+  /* background: #0543c2; */
+  /* border-color: #0543c2; */
+  color: white;
+  border-color: #0543c2;
   text-decoration: none;
   font-size: 1rem;
   padding: 8px 12px;
